@@ -1,0 +1,1 @@
+export * from './src/app/xls-json/xls-json.module'
